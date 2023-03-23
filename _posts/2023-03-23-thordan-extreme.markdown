@@ -16,13 +16,27 @@ Set the 8 waymarks on the area as follows:
 
 # Phase  1: Thordan
 
-- **Tank** pulls Thordan to the 12:00 position, facing away from the party.
-- Spread apart when markers appear above your heads.
-- Turn away from Thordan as soon as the eye marker appears on him
+- **Tank** pulls Thordan towards the 12:00 position, facing away from the party.
+- The **rest** stacks together behind him and dodges the first AoE that spawn on each players.
+- Turn away from Thordan as soon as the eye marker appears on him.
+- Spread apart when purple markers appear above your heads.
+- Stack behind Thordan again for the stack marker
+- **Healers** heal up the following raidwide damage
+- **Healers** shield and heal the **Main Tank** against the tank buster
 
 # Phase  2: Conviction Towers
 
+- Stack in the center, wait until the circles appear, then move to the assigned positions
+  - This should also break the chains
+- Place a player in each of the 4 conviction towers, otherwise the entire raid will be paralyzed
+
 # Phase  3: Sacred Cross / Spiral Thrust
+
+- Kill the add ASAP
+  - The damage the raid receives is based on the leftover damage of the add
+- Place yourself at the edge of the arena as marked by the green dots here to avoid damage
+![Spiral Thrust](https://m-gora.github.io/xivtldrmechanics/assets/images/thordan/arena_spiral.svg)
+
 
 # Phase  4: Two Knights
 
