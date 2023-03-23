@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog style guide to several Final Fantasy XIV boss mechanics in a very condensed fashion.
   Relying mostly on brief descriptions an images to visualise the mechanics should make every fight understandable
   in a maximum 5 minutes read.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/xivtldrmechanics/" # the subpath of your site, e.g. /blog
+url: "https://m-gora.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: m-gora
 
