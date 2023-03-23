@@ -7,7 +7,7 @@ categories: jekyll update
 # Preparation
 Set the 8 waymarks on the area as follows:  
   
-![MT M2 H2 R2 OT R1 H1 M1 clockwise starting at 12 o'clock](/xivtldrmechanics/assets/images/thordan/thordan_arena_positions.svg)
+![MT M2 H2 R2 OT R1 H1 M1 clockwise starting at 12 o'clock](https://m-gora.github.io/xivtldrmechanics/assets/images/thordan/_arena_positions.svg)
   
 - MT/OT = Main / Offtank
 - M1/M2 = Melee DPS
