@@ -96,7 +96,7 @@ Set the 8 waymarks on the area as follows:
   - They will always spawn in that shape but turned randomly
   - Dodge *Heavy Impact*, but stay in the towers as it's only always affecting half of the tower area
 
-![Conviction Towers](https://m-gora.github.io/xivtldrmechanics/assets/images/thordan/arena_fury.svg)
+![Conviction Towers](https://m-gora.github.io/xivtldrmechanics/assets/images/thordan/arena_conviction_heavy.svg)
 
 - After the first ring explodes *Dragon's Gaze* will happen; turn away
 - Stack in the middle for *Heavy Impact*
